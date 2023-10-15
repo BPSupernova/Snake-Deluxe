@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: ea1d46ebf15a38447915ae6583657c9c
+  - enabled: 1
+    path: Assets/Scenes/WPILogoFlash.unity
+    guid: 977591f5037398948a58e2025f3498bb
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 31b9a3093c6fa744ca2a22f3b9554a68
+  - enabled: 1
+    path: Assets/Scenes/SnakeBuild.unity
+    guid: c13d65a5d603e174b84d50a590bc9805
+  m_configObjects: {}
